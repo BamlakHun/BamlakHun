@@ -2,7 +2,6 @@
 
 📍 Based in: Stockholm, Sweden. <br/>
 🎓 Studied: [Software Development Programme](https://www.hkr.se/en/program/bachelor-software-development) at the University of Kristianstad. <br/>
-💻 Programming Languages: Python, JavaScript, SQL, Java... <br/>
 📌 Current Focus: Big Data & Cloud Infrastructure. <br/>
 🌱 Explore and implement cloud computing, data processing, and scalable solutions. <br/>
 ## 🖥️ Areas of Expertise
