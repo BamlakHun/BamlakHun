@@ -4,7 +4,7 @@
 📗 | Studying MSc in Computer Science at Luleå Teknisk Universitet. <br/>
 🎓 | Studied BSc in [Software Development Programme](https://www.hkr.se/en/program/bachelor-software-development) at the University of Kristianstad. <br/>
 📌 | Current Focus: Big Data & Cloud Infrastructure. <br/>
-🌱 | Explore and implement cloud computing, data processing, and scalable solutions. <br/>
+🌱 | The goal is to work in a successful company with a clear vision, where I can contribute at my best. <br/>
 ## 🖥️ Areas of Expertise
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
