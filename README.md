@@ -1,8 +1,8 @@
  ## 👋 Hello! I’m [Bamlak](https://bamlakhune.tiiny.site/)
 
 📍  | Based in: Stockholm, Sweden. <br/>
-📗 | Studying MSc in Computer Science <br/>
-🎓 | Studied: [Software Development Programme](https://www.hkr.se/en/program/bachelor-software-development) at the University of Kristianstad. <br/>
+📗 | Studying MSc in Computer Science at Luleå Teknisk Universitet. <br/>
+🎓 | Studied BSc in [Software Development Programme](https://www.hkr.se/en/program/bachelor-software-development) at the University of Kristianstad. <br/>
 📌 | Current Focus: Big Data & Cloud Infrastructure. <br/>
 🌱 | Explore and implement cloud computing, data processing, and scalable solutions. <br/>
 ## 🖥️ Areas of Expertise
