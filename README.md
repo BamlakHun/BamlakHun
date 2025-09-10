@@ -3,7 +3,7 @@
 📍 | Based in Stockholm, Sweden. <br/>
 📗 | Studying MSc in Computer Science at Luleå Teknisk Universitet. <br/>
 🎓 | Studied BSc in [Software Development Programme](https://www.hkr.se/en/program/bachelor-software-development) at the University of Kristianstad. <br/>
-📌 | Currently persuing my MSC in [Data Science](https://www.ltu.se/en/education/degree/exa4470-degree-of-master-of-science--60-credits---major-information-systems-sciences). at Luleå Teknisk Universitet. <br/>
+📌 | Currently persuing my MSC in [Data Science](https://www.ltu.se/en/education/degree/exa4470-degree-of-master-of-science--60-credits---major-information-systems-sciences) at Luleå Teknisk Universitet. <br/>
 🌱 | The goal is to work in a successful company with a clear vision, where I can contribute at my best. <br/>
 ## 🖥️ Areas of Expertise
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
