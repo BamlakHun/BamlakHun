@@ -2,7 +2,10 @@
 
 📍 | Based in Luleå, Sweden. <br/>
 📗 | Studying MSc in [Data Science](https://www.ltu.se/en/education/degree/exa4470-degree-of-master-of-science--60-credits---major-information-systems-sciences) at Luleå Teknisk Universitet.  <br/>
-💼 | Working as a student ambassador at Luleå Teknisk Universitet. <br/>
+💼 | Working as a Student Ambassador at Luleå Teknisk Universitet. <br/>
+                  Teaching Assistant Database Systems <br/>
+                  Teaching Assistant IT system Test <br/>
+                  Teaching Assistant Text Mining - NLP <br/>
 🎓 | Studied BSc in [Software Development Programme](https://www.hkr.se/en/program/bachelor-software-development) at the University of Kristianstad. <br/>
 📌 | Currently playing with Azure. <br/>
 🌱 | The goal is to work in a successful company with a clear vision, where I can contribute at my best. <br/>
