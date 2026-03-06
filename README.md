@@ -1,14 +1,13 @@
- ## 👋 Hello! I’m [Bamlak](https://bamlakhune.tiiny.site/)
+ ## 👋 Hello! I’m Bamlak 
 
-📍 | Based in Luleå, Sweden. <br/>
 📗 | Studying MSc in [Data Science](https://www.ltu.se/en/education/degree/exa4470-degree-of-master-of-science--60-credits---major-information-systems-sciences) at Luleå Teknisk Universitet.  <br/>
-💼 | Working as a Student Ambassador at Luleå Teknisk Universitet. <br/>
+🌱 | Working as a Student Ambassador & Teaching Assistant at Luleå University of Technology. <br/>
 -------------------Teaching Assistant [Database Systems I](https://www.ltu.se/en/education/syllabuses/course-syllabus?id=D0004N). <br/>
 -------------------Teaching Assistant [IT system Test](https://www.ltu.se/utbildning/kompetensutveckling-for-yrkesverksamma/sok-bland-uppdragsutbildningar/test-av-it-system). <br/>
 -------------------Teaching Assistant [Text Mining - NLP](https://www.ltu.se/utbildning/utbildningsplan-och-kursplan/kursplan?id=D7058E). <br/>
 🎓 | Studied BSc in [Software Development Programme](https://www.hkr.se/en/program/bachelor-software-development) at the University of Kristianstad. <br/>
 📌 | Currently playing with AWS. <br/>
-🌱 | Looking forward for my next role. <br/>
+📍 | Based in Luleå, Sweden. <br/>
 ## 🖥️ Areas of Expertise
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
