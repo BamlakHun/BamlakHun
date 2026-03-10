@@ -1,6 +1,6 @@
  ## 👋 Hello! I’m Bamlak 
 
-📗 | Studying MSc in [Data Science](https://www.ltu.se/en/education/degree/exa4470-degree-of-master-of-science--60-credits---major-information-systems-sciences) at Luleå Teknisk Universitet.  <br/>
+📗 | Studying MSc in [Data Science](https://www.ltu.se/en/education/degree/exa4470-degree-of-master-of-science--60-credits---major-information-systems-sciences) at Luleå University of Technology.  <br/>
 🌱 | Working as a Student Ambassador & Teaching Assistant at Luleå University of Technology. <br/>
 -------------------Teaching Assistant [Database Systems I](https://www.ltu.se/en/education/syllabuses/course-syllabus?id=D0004N). <br/>
 -------------------Teaching Assistant [IT system Test](https://www.ltu.se/utbildning/kompetensutveckling-for-yrkesverksamma/sok-bland-uppdragsutbildningar/test-av-it-system). <br/>
